@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+name = "tsinghua"
+
+[dev-packages]
+mock = "*"
+watchdog = "*"
+faker = "*"
+
+[packages]
+Flask-SocketIO = "*"
+Flask = "*"
+python-dotenv = "*"
+flask-login = "*"
+Flask-WTF = "*"
+Flask-Moment = "*"
+Flask-OAuthlib = "*"
+eventlet = "*"
+bleach = "*"
+Markdown = "*"
+Pygments = "*"
+Flask-SQLAlchemy = "*"
